@@ -37,24 +37,23 @@ body {
     top: 1000px;
 }
 
-.header_over1 {
+.header_over1 { /* title background*/
     position: absolute;
-    top: 30%;
+    top: 20%;
     left: 50%;
     width: 80%;
     transform: translate(-50%, -50%);
 }
-.header_over2 {
-    /* wind background*/
+.header_over2 { /* wind background*/
     position: absolute;
-    top: 110%;
+    top: 60%;
     left: 50%;
     width: 100%;
     transform: translate(-50%, -50%);
 }
 .header_over3 { /* hand background*/
     position: absolute ;
-    top: 110%;
+    top: 80%;
     left: 50%;
     width: 100%;
     transform: translate(-50%, -50%);
